@@ -1,22 +1,45 @@
+# Hi, I'm Mayuresh
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayuresh-thorve) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mthorve99@gmail.com) 
+Computer Engineering student at **D. Y. Patil College of Engineering and Innovation**, Pune.
+I build machine learning systems end to end — training the model, then wrapping it in
+something someone else can actually use.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mayurroro&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mayurroro&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayurroro&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Currently focused on **multimodal deepfake detection** and **computer vision for agriculture**.
 
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+## What I work on
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [DeepFake Detection](https://github.com/Mayurroro/DeepFake) | Detects manipulated images *and* audio. Image branch uses EfficientNet-B4; audio branch is a CNN-LSTM over Mel-spectrograms. The two are fused with a gated mixture-of-experts layer, so the model weights each signal by how much it trusts it. | PyTorch, EfficientNet, OpenCV, Librosa, FastAPI, ONNX, Docker, Streamlit |
+| [DeepCrop](https://github.com/Mayurroro/Crop-Disease-Detection) | Plant disease classifier trained on PlantVillage, with Grad-CAM heatmaps so you can see *which part of the leaf* the model is using, plus treatment recommendations and confidence scores. | PyTorch, CNN, Grad-CAM, OpenCV, Streamlit |
+| [Book Market](https://github.com/Mayurroro/BookMarket) | Full-stack marketplace for buying and selling books. | Python, Flask, HTML/CSS, JavaScript, SQL |
+| [Student Performance Classification](https://github.com/Mayurroro/Student-Performance-Classification) | Classifies student performance from academic and demographic features. | Python, scikit-learn, Pandas, Streamlit |
+| [Spam Email Detection](https://github.com/Mayurroro/Spam-Email-detection) | Classifies email as spam or ham from message text. | Python, scikit-learn, Pandas, Streamlit |
+
+## Stack
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayuresh-thorve-762656309)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:thorvemayuresh6@gmail.com)
+
+## Portfolio
+
+Full case studies — architecture, design decisions, and what I'd do differently — are on my
+[portfolio](https://mayuresh-portfolio.onrender.com/).
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mayurroro&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/thorvemayuc) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/thorvemayuc)
